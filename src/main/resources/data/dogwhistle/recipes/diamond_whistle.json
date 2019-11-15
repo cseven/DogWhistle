@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "DWD",
+    "   "
+  ],
+  "key": {
+    "W": {
+      "item": "dogwhistle:whistle"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "dogwhistle:diamond_whistle"
+  }
+}

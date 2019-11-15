@@ -1,0 +1,7 @@
+{
+  "whistle": {
+    "category": "item",
+    "subtitle": "dogwhistle.subtitle.whistleblow",
+    "sounds": ["dogwhistle:whistle"]
+  }
+}

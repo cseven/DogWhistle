@@ -1,0 +1,13 @@
+{
+  "item.dogwhistle.whistle": "Dog Whistle %s",
+  "item.dogwhistle.diamond_whistle": "Diamond Dog Whistle %s",
+  "item.dogwhistle.dog_treat": "Dog Treat",
+
+  "dogwhistle.behavior.target": "<Target>",
+  "dogwhistle.behavior.pacify": "<Pacify>",
+  "dogwhistle.behavior.recall": "<Recall>",
+
+  "itemGroup.dogwhistle": "Dog Whistle",
+
+  "dogwhistle.subtitle.whistleblow": "Whistle Blows"
+}
